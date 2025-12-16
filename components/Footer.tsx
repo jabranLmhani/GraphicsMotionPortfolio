@@ -40,7 +40,7 @@ export default function Footer() {
             <h4 className="text-sm font-bold text-foreground uppercase tracking-wider mb-6">Connect</h4>
             <div className="flex gap-4">
               <a
-                href="https://www.linkedin.com/in/jabran-lmhani"
+                href="https://www.linkedin.com/in/jabran-lmhani-6b3a821a2/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-12 h-12 flex items-center justify-center glass-card hover:scale-110 transition-all duration-300"
