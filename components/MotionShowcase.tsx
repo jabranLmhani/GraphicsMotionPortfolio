@@ -93,7 +93,6 @@ export default function MotionShowcase() {
                   autoPlay
                   loop
                   muted
-                  volume={0}
                   playsInline
                   preload="metadata"
                   onLoadedMetadata={(e) => handleMetadata(index, e)}

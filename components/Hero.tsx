@@ -131,7 +131,7 @@ export default function Hero() {
               className="flex gap-3 mt-8"
             >
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/jabran-lmhani-6b3a821a2/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-12 h-12 flex items-center justify-center glass-card hover:scale-110 transition-all duration-300"
